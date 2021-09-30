@@ -1,0 +1,9 @@
+C:\Users\GRUSH\Documents\Visual Studio 2017\Projects\RussianRuletka\RussianRuletka\bin\Debug\RussianRuletka.exe.config
+C:\Users\GRUSH\Documents\Visual Studio 2017\Projects\RussianRuletka\RussianRuletka\bin\Debug\RussianRuletka.exe
+C:\Users\GRUSH\Documents\Visual Studio 2017\Projects\RussianRuletka\RussianRuletka\bin\Debug\RussianRuletka.pdb
+C:\Users\GRUSH\Documents\Visual Studio 2017\Projects\RussianRuletka\RussianRuletka\obj\Debug\RussianRuletka.csprojResolveAssemblyReference.cache
+C:\Users\GRUSH\Documents\Visual Studio 2017\Projects\RussianRuletka\RussianRuletka\obj\Debug\RussianRuletka.Form1.resources
+C:\Users\GRUSH\Documents\Visual Studio 2017\Projects\RussianRuletka\RussianRuletka\obj\Debug\RussianRuletka.Properties.Resources.resources
+C:\Users\GRUSH\Documents\Visual Studio 2017\Projects\RussianRuletka\RussianRuletka\obj\Debug\RussianRuletka.csproj.GenerateResource.Cache
+C:\Users\GRUSH\Documents\Visual Studio 2017\Projects\RussianRuletka\RussianRuletka\obj\Debug\RussianRuletka.exe
+C:\Users\GRUSH\Documents\Visual Studio 2017\Projects\RussianRuletka\RussianRuletka\obj\Debug\RussianRuletka.pdb
